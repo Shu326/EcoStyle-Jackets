@@ -20,5 +20,5 @@ This project demonstrates:
 
 ## 📌 Author
 👤 **Shubham Hiralal Rajput**  
-- [LinkedIn](https://www.linkedin.com/in/shubham-hiralal-rajput/)  
+- [LinkedIn](  https://www.linkedin.com/in/shubham-rajput-a7031831a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [GitHub](https://github.com/Shu326)  
